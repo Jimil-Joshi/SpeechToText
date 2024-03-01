@@ -1,0 +1,8 @@
+torch
+SentencePiece
+torchaudio
+transformers
+requests
+uvicorn
+fastapi
+pydub
